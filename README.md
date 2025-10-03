@@ -2,12 +2,12 @@
 
 Modern redesign of the Valhyr Capital homepage with improved UX and cleaner interactions.
 
-## 🎯 Files
+## Files
 
 - **`homepage-redesigned.html`** - Redesigned homepage with modern centered layout
 - **`homepage-original.html`** - Original homepage for comparison
 
-## ✨ Key Improvements
+## Key Improvements
 
 **Design Changes:**
 - Modern centered hero layout
@@ -20,16 +20,9 @@ Modern redesign of the Valhyr Capital homepage with improved UX and cleaner inte
 - Added CSS safeguards for stable interactions
 - All assets loaded via CDN (self-contained, no build required)
 
-## 🚀 Usage
+## Usage
 
 Simply open `homepage-redesigned.html` in a web browser. All assets are loaded from CDN.
-
-## 📝 Changelog
-
-### Latest Update
-- Removed GSAP + SplitText button text animations on hover
-- Buttons now have clean, professional hover effects
-- Added global CSS overrides to prevent text movement
 
 ---
 
